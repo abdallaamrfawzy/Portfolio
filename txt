@@ -1,0 +1,2 @@
+npm i --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-verti
+cal-timeline-component @emailjs/browser framer-motion 
