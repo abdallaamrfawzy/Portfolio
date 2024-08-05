@@ -22,6 +22,8 @@ import freelancer from "./freelancer-logo.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import mobile from "./mobile.png";
+import creator from "./creator.png"
 
 export {
   logo,
@@ -47,4 +49,6 @@ export {
   jobit,
   tripguide,
   freelancer,
+  mobile,
+  creator,
 };

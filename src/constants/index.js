@@ -18,6 +18,8 @@ import {
     tripguide,
     threejs,
     freelancer,
+    mobile,
+    creator,
 } from "../assets";
 
 export const navLinks = [
@@ -38,19 +40,19 @@ export const navLinks = [
 const services = [
     {
         title: "Web Developer",
-        icon: backend,
+        icon: web,
     },
     {
         title: "MERN Stack",
-        icon: web,
+        icon: mobile,
     },
     {
         title: "UI & UX Designer",
-        icon: web,
+        icon: backend,
     },
     {
         title: "Backend Developer",
-        icon: backend,
+        icon: creator,
     },
 ];
 
